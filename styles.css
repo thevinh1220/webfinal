@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.ctn1{
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+h3{
+    color:rgb(37, 37 ,37);
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+}
+
+.gioithieu{
+    padding-right: 50px;
+}
+
+.image1{
+    background-image: linear-gradient(0, rgba(3, 72, 176, 0.5), rgba(3, 72, 176, 0.5)) , url("https://caodang.fpt.edu.vn/wp-content/uploads/CNDT1.png");
+    /* float: left; */
+    height: 190px;
+    width: 100%;
+    background-size: cover;
+    padding-top: 90px;
+}
+.title-des{
+    margin-left: 100px;
+    font-weight: 700;
+    color: black; 
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+.image2{
+    background-image: linear-gradient(0, rgba(33, 208, 71, 0.5), rgba(33, 208, 71, 0.5)) , url("https://caodang.fpt.edu.vn/wp-content/uploads/CNDT2.png");
+    height: 190px;
+    width: 100%;
+    background-size: cover;
+    padding-top: 90px;
+}
+.image3{
+    background-image: linear-gradient(0, rgba(85, 68, 215, 0.5), rgba(85, 68, 215, 0.5)) , url("https://caodang.fpt.edu.vn/wp-content/uploads/CNDT6.png");
+    height: 190px;
+    width: 100%;
+    background-size: cover;
+    padding-top: 90px;
+    /* float: left; */
+}
+.image4{
+    background-image: linear-gradient(0, rgba(33, 208, 71, 0.5), rgba(33, 208, 71, 0.5)) , url("https://caodang.fpt.edu.vn/wp-content/uploads/Co%CC%9B_khi%CC%81_2.png");
+    height: 190px;
+    width: 100%;
+    background-size: cover;
+    padding-top: 90px;
+}
+.image5{
+    background-image: linear-gradient(0, rgba(241, 12, 12, 0.5), rgba(241, 12, 12, 0.5)) , url("https://caodang.fpt.edu.vn/wp-content/uploads/CNDT5.png");
+    height: 190px;
+    width: 100%;
+    background-size: cover;
+    padding-top: 90px;
+}
+.title-product{
+    width: 100%;
+    text-align: center;
+}
+.table{
+    width: 100%;
+}
+th{
+    width: 25%;
+}
+
+
+p{
+    width:100%; 
+    text-align: start;
+    color: black;
+    float: left;
+}
+.header{
+    text-align: center;
+    cursor: pointer;
+    margin: auto;
+    background-color: bisque;
+    padding: 20px;
+    color: white;
+}
+
+
+.danh-muc{
+    margin-right: 50px;
+}
+.ma-gia-gia{
+    margin-left:50px;
+}
+
+.image-baner{
+    width: 100%;
+    height: 500px;
+}
+
+.footer{
+    background-color:bisque;
+}
